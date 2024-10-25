@@ -5,7 +5,6 @@ title: About Me
 
 # Hello, I'm Michael
 
-(assets/img/headshot.jpg){: .profile-picture}
 
 
 ## What I Do
