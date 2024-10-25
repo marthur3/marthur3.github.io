@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 
 # Hello, I'm Michael
 
-![Your professional headshot](assets/images/headshot.jpg){: .profile-picture}
+(assets/img/headshot.jpg){: .profile-picture}
 
 
 ## What I Do
