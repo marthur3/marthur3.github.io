@@ -1,16 +1,39 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+permalink: /about/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Hello, I'm Michael
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+![Your professional headshot](assets/images/headshot.jpg){: .profile-picture}
 
-What else do you need?
 
-### My story
+## What I Do
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- **[Key Skill 1]**: [Brief description of your expertise in this area]
+- **[Key Skill 2]**: [Another area you excel in]
+- **[Key Skill 3]**: [A third notable skill]
+
+## My Approach
+
+I believe in [Your Professional Philosophy or Approach]. Whether I'm [Activity 1] or [Activity 2], I always strive to [Your Work Ethic or Goal].
+
+## Beyond Work
+
+When I'm not [Your Professional Activity], you can find me:
+
+- [Hobby or Interest 1]
+- [Hobby or Interest 2]
+- [Hobby or Interest 3]
+
+## Let's Connect
+
+I'm always excited to collaborate on interesting projects or discuss [Your Field]. Feel free to reach out to me on [Your Preferred Social Media] or via [Your Professional Email].
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile){: .btn .btn-primary}
+[Check out my projects on GitHub](https://github.com/your-username){: .btn .btn-secondary}
+
+---
+
+> "Your favorite quote that reflects your professional outlook or personal philosophy"
